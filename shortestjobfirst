@@ -60,4 +60,5 @@ int main()
 	printf("\nAverage Waiting Time= %f\n",wait*1.0/n); 
     printf("Avg Turnaround Time = %f",arr*1.0/n); 
     return 0;
+    
 }
