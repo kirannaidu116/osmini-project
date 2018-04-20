@@ -11,6 +11,7 @@ int main()
 	remain=n;
 	for(i=0;i<n;i++)
 	{
+	
 		printf("\n Enter Arrival Time of Process %d:\t",i+1);
 		scanf("%d",&arrival[i]);
 		printf("\n Enter Burst Time of Process %d:\t",i+1);
